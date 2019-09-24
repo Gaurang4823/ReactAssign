@@ -1,2 +1,0 @@
-# ReactAssign
-Created with CodeSandbox
