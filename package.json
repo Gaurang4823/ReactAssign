@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "4.3.1",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "npm-bundled": "1.0.6",
     "popper.js": "1.15.0",
     "react": "16.9.0",
